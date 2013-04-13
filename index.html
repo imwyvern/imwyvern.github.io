@@ -6,7 +6,7 @@ title: Wyvern's Blog
 　　 <h1>{{page.title}}</h1>
 	<nav>
 		<ul>
- 			<li><a >最新文章</a></li>
+ 			<li><a ><strong>最新文章</strong></a></li>
 		</ul>
 	</nav>
 </header>
@@ -14,7 +14,13 @@ title: Wyvern's Blog
 <section>
 　　<ul>
 　　　　{% for post in site.posts %}
-　　　　　　<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+　　　　　　<li><time>{{ post.date | date_to_string }}</time> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 　　　　{% endfor %}
 　　</ul>
 </section>
+<aside>
+	<h3>About me</h3>
+</aside>
+<footer>
+        <p>Design by <a href="http://www.imwyvern.com" title="Wyvern" target="_blank">Wyvern</a> © 2013</p>
+</footer>

@@ -4,13 +4,13 @@ pygments:         true
 paginate:         6
 permalink:        /:title
 title:            wyvern.com
-url:              http://blog.imwyvern.com
+url:              http://imwyvern.com
 feed:             /atom.xml
 author:
     name:         Wyvern
-    twitter:      twitter.com/wyvern
+   weibo:     	   weibo.com/goonerwyvern
 description:      "wyvern's Blog"
 author_info:      <a href="http://wyvern.com/about">wyvern</a>
 
 copyright:
-    - Design by <a href="http://wyvern.com/wyvern" title="wyvern" target="_blank">wyvern</a> &copy; 2013
+    - Design by <a href="http://imwyvern.com/" title="wyvern" target="_blank">wyvern</a> &copy; 2013

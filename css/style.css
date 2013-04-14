@@ -22,15 +22,14 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 /*header styles*/
 header h1{float:left;margin:0px 0 0 1px;}
 header h1 a{width:212px;height:53px;display:block;}
-header nav{position:relative;z-index:99;float:right;padding:13px 0 0 0;}
-
+header nav{}
 /*article styles*/
 article ul li{
 		height: 29px;
-line-height: 29px;
-text-indent: 22px;
-margin-left: -15px;
-padding-right: 15px;
+		line-height: 29px;
+		text-indent: 22px;
+		margin-left: -15px;
+		padding-right: 15px;
 		}
 article ul li a{color: #5E5E5E;}
 article ul li a:hover{font-weight: bold;}
@@ -38,5 +37,10 @@ article ul li a:hover{font-weight: bold;}
 
 /*time styles*/
 time{display:block;padding:0 0 7px 0px;color:#444444}
-time a{color:#37a8ca;text-decoration:none;}
-time a:hover{color:#000;}
+time {color:#37a8ca;text-decoration:none;}
+time:hover{color:#000;}
+
+
+#content{
+	width: 1000px;
+}

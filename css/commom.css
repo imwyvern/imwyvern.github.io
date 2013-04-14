@@ -17,7 +17,7 @@ a{ text-decoration:none}a:hover{ text-decoration:underline;}
 .tc{ text-align:center;}.tl{ text-align:left;}.tr{ text-align:right}
 .psr{ position:relative;}.psa{position: absolute;}.dsn{ display:none;}.dsb{display: block;}.dsib{display: inline-block;}
 .mt10{margin-top: 10px;}.mt20{margin-top: 20px;}.mt30{margin-top: 30px;}
-
+.center{margin-left:auto;margin-right: auto; }
 
 
 /*减少浮动带来的ie6下bug */*/

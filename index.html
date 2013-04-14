@@ -2,15 +2,7 @@
 layout: default
 title: Wyvern's Blog
 ---
-<header>
-　　 <h1><a href="/">{{page.title}}</a></h1>
-	<nav>
-		<ul>
- 			<li><a ><strong>最新文章</strong></a></li>
-		</ul>
-	</nav>
-</header>
-<!-- header ends -->
+<div id="content" class="center">
 <section>
 　　<ul>
 　　　　{% for post in site.posts %}
@@ -18,6 +10,7 @@ title: Wyvern's Blog
 　　　　{% endfor %}
 　　</ul>
 </section>
+</div>
 <aside>
 	<h3>About me</h3>
 </aside>

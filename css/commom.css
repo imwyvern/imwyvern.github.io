@@ -1,0 +1,27 @@
+/*
+ *reset css
+ *author:wyvern
+ *imwyvern.com
+*/
+
+/*防止用户自定义背景颜色对浏览器影响*/
+html{background: #F8F8F0;color: #000}
+/*不同浏览器标签默认内外边距统一*/
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td,footer,header,aside,article,nav,address,section{margin:0;padding: 0;}
+/*reset html5 tag*/
+header,section,aside,footer,nav,details,figcaption,figure,nav{display: block;}
+
+/*重置样式*/
+a{ text-decoration:none}a:hover{ text-decoration:underline;}
+/*css 复用*/
+.tc{ text-align:center;}.tl{ text-align:left;}.tr{ text-align:right}
+.psr{ position:relative;}.psa{position: absolute;}.dsn{ display:none;}.dsb{display: block;}.dsib{display: inline-block;}
+.mt10{margin-top: 10px;}.mt20{margin-top: 20px;}.mt30{margin-top: 30px;}
+
+
+
+/*减少浮动带来的ie6下bug */*/
+.fl{ float:left; display:inline;}.fr{ float:right; display:inline;}
+/* 清理浮动 */
+.clear{clear:both;line-height:0;font-size:0;overflow:hidden;height:0;width:100%;}
+

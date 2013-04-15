@@ -3,7 +3,7 @@ layout: default
 title: Wyvern's Blog
 ---
 <div id="content" class="center">
-<section>
+<section class="tc">
 　　<ul>
 　　　　{% for post in site.posts %}
 　　　　　　<li><time>{{ post.date | date_to_string }}</time> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
@@ -11,9 +11,9 @@ title: Wyvern's Blog
 　　</ul>
 </section>
 </div>
-<aside>
+<aside class="tc">
 	<h3>About me</h3>
 </aside>
-<footer>
+<footer class="tc">
         <p>Design by <a href="http://www.imwyvern.com" title="Wyvern" target="_blank">Wyvern</a> © 2013</p>
 </footer>

@@ -35,7 +35,7 @@ article ul li{
 		}
 article ul li a{color: #5E5E5E;}
 article ul li a:hover{font-weight: bold;}
-aside,footer{width: 80%;padding: 0 40px;}
+aside,footer{padding: 0 40px;}
 
 /*time styles*/
 time{display:block;padding:0 0 7px 0px;color:#444444}

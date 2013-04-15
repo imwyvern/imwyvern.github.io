@@ -4,11 +4,13 @@ title: Wyvern's Blog
 ---
 <div id="content" class="center">
 <section class="tc">
-　　<ul>
-　　　　{% for post in site.posts %}
-　　　　　　<li> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><p>{{ post.date | date_to_string }}</p></li>
-　　　　{% endfor %}
-　　</ul>
+	<article>
+	　　<ul>
+	　　　　{% for post in site.posts %}
+	　　　　　　<li> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><p>{{ post.date | date_to_string }}</p></li>
+	　　　　{% endfor %}
+	　　</ul>
+	</article>
 </section>
 </div>
 <aside class="tc">

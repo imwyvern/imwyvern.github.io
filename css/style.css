@@ -39,9 +39,7 @@ article ul li a:hover{font-weight: bold;}
 aside,footer{padding: 0 40px;}
 
 /*time styles*/
-time{display:block;padding:0 0 7px 0px;color:#444444}
-time {color:#37a8ca;text-decoration:none;}
-time:hover{color:#000;}
+time{text-align: center;color: #999;margin-bottom: 60px;font-size: 14px;}
 
 
 #content{

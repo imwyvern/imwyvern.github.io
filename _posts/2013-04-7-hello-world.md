@@ -4,7 +4,7 @@ title: hello world
 ---
 
 <div id="content" class="center">
-	<h2><em>{{ page.title }}</em></h2>
+	<h2 class="tc"><em>{{ page.title }}</em></h2>
 <section>
 	<article>
 		<p>我的第一篇文章<code>hello world</code></p>

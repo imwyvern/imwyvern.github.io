@@ -10,9 +10,10 @@ html{background: #F8F8F0;color: #000}
 body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td,footer,header,aside,article,nav,address,section{margin:0;padding: 0;}
 /*reset html5 tag*/
 header,section,aside,footer,nav,details,figcaption,figure,nav{display: block;}
-
+/*弹性图片*/
+img{max-width: 100%;}
 /*重置样式*/
-a{ text-decoration:none}a:hover{ text-decoration:underline;}
+a{ text-decoration:none}a:hover{ text-decoration:none;}
 /*css 复用*/
 .tc{ text-align:center;}.tl{ text-align:left;}.tr{ text-align:right}
 .psr{ position:relative;}.psa{position: absolute;}.dsn{ display:none;}.dsb{display: block;}.dsib{display: inline-block;}

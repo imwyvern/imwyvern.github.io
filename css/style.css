@@ -23,9 +23,8 @@ header{width: 80%;padding:0 40px;}
 header h1{float:left;margin:0px 0 0 1px;}
 header h1 a{width:212px;display:block;color:rgb(114, 114, 114);}
 header h1 a:hover{color: #5e5e5e;}
-header h3 a{font-size: 30px;font-weight: bold;margin-bottom: 6px;color: #000;text-align: center;}
 header nav{}
-
+h3 a{font-size: 30px;font-weight: bold;margin-bottom: 6px;color: #000;text-align: center;}
 /*article styles*/
 article ul li{
 		height: 29px;
@@ -39,7 +38,7 @@ article ul li a:hover{font-weight: bold;}
 aside,footer{padding: 0 40px;}
 
 /*time styles*/
-time{text-align: center;color: #999;margin-bottom: 60px;font-size: 14px;}
+time{text-align: center;color: #999;margin-bottom: 60px;font-size: 14px;width: 75px;margin-right: auto;margin-left: auto;}
 
 
 #content{

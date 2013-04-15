@@ -6,7 +6,7 @@ title: Wyvern's Blog
 <section class="tc">
 　　<ul>
 　　　　{% for post in site.posts %}
-　　　　　　<li> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time>{{ post.date | date_to_string }}</time></li>
+　　　　　　<li> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><p>{{ post.date | date_to_string }}</p></li>
 　　　　{% endfor %}
 　　</ul>
 </section>

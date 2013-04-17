@@ -26,7 +26,7 @@ header h1 a:hover{color: #5e5e5e;}
 header nav{}
 h3 a{font-size: 30px;font-weight: bold;margin-bottom: 6px;color: #000;text-align: center;}
 /*article styles*/
-article ul li{height: 29px;line-height: 29px;text-indent: 22px;margin-left: -15px;padding-right: 15px;}
+article ul li{height: 29px;line-height: 29px;text-indent: 22px;margin-left: -630px;padding-right: 15px;}
 article ul li a{color: #5E5E5E;}
 article ul li a:hover{font-weight: bold;}
 aside,footer{padding: 0 40px;}

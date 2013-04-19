@@ -7,7 +7,7 @@ title: Wyvern's Blog
 	<article>
 	　　<ul>
 	　　　　{% for post in site.posts %}
-				<p><time> {{ post.date}}</time><a href="{{post.categoriesurl}}">{{post.categories}}</a></p>
+				<p><time> {{ post.date}}</time><a href="{{ site.baseurl }}{{post.categories.url}}">{{post.categories}}</a></p>
 	　　　　　　<li> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 	　　　　{% endfor %}
 	　　</ul>

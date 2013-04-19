@@ -1,7 +1,7 @@
 ---
 layout: post
 title: hello world
-categories : [lessons, beginner]
+categories : [test1]
 ---
 
 <div id="content" class="center">

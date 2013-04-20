@@ -5,17 +5,22 @@ title: Wyvern's Blog
 <div id="content" class="center">
 <section class="tc">
 	<article>
-		<ul>
+		<!--<ul>
 		    {% for category in site.categories %}
 		    <li><a href="/categories/{{ category | first }}/" title="view all
-		posts">{{ category | first }} {{ category | last | size }}</a>
+		posts">{{ category | first }}</a>
 		    </li>
 		    {% endfor %}
-		</ul>
+		</ul>-->
+
+			<!--	<a href="{{ site.baseurl }}{{post.categories.url}}">{{post.categories}}</a></p>
+	　　　　　　
+-->
+
 	　　<ul>
 	　　　　{% for post in site.posts %}
-				<p><time> {{ post.date|date:"%Y-%m-%d"}}</time><a href="{{ site.baseurl }}{{post.categories.url}}">{{post.categories}}</a></p>
-	　　　　　　<li> <a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
+				<p><time> {{ post.date|date:"%Y-%m-%d"}}</time>
+				<li> <a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
 	　　　　{% endfor %}
 	　　</ul>
 	</article>

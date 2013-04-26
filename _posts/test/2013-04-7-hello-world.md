@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 豆瓣小析
+title: 豆瓣定位
 categories : [体验分析]
 ---
 

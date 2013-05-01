@@ -30,6 +30,9 @@ article ul li{height: 29px;line-height: 29px;text-indent: 22px;margin-left: -630
 article ul li a{color: #5E5E5E;}
 article ul li a:hover{font-weight: bold;}
 aside,footer{padding: 0 40px;}
+footer{
+	font-size: 10px;color: #aaa;
+}
 /*time styles*/
 time{text-align: center;color: #999;margin-bottom: 60px;font-size: 14px;width: 75px;margin-right: auto;margin-left: auto;}
 .time{text-align: center;color: #999;margin-bottom: 60px;font-size: 14px;width: 75px;margin-right: auto;margin-left: auto;}

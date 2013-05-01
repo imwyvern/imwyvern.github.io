@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Wyvern's Blog
+title: About me
 ---
-<div class="content">
+<div id="content" class="center">
 	<p>热爱互联网，拥抱自由和创新</p>
 	<p>联系方式： goonerwyvern@gmail.com</p>
 	<ul>

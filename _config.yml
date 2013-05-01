@@ -5,7 +5,6 @@ paginate:         6
 permalink:        /:title
 title:            Wyvern's Blog
 url:              http://imwyvern.com
-feed:             /atom.xml
 author:
     name:         Wyvern
    weibo:     	   weibo.com/goonerwyvern

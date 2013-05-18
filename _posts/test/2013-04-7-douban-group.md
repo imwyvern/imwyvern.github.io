@@ -24,10 +24,14 @@ categories : [体验分析]
 *内在来看，豆瓣小组的用户主要来自于整个豆瓣的体系，由于豆瓣本身的氛围，就造就了小组的氛围和竞争对手比如百度贴吧和天涯的很大不同。 
 
 <br />
-###关于豆瓣小组的疑问
-*题的推荐功能可以无限推荐。  
+###关于豆瓣小组的功能疑问
+*话题的推荐功能可以无限推荐。  
 *为什么收藏功能在web端没有找到按钮，但是在移动端有收藏功能  
 *当我想要发一个话题的时候，发现有小组太多名字相似，但是我都可以去发的小组，为了保证我的浏览量，难道我的话题都应该去每个小组发一次？  
 *这是一个有趣的例子。百度的ps贴吧内容大部分都是求ps，而豆瓣的ps小组则大部分都是教程和软件下载地址。  
 <img src="https://github.com/imwyvern/imwyvern.github.io/blob/master/images/ex2.png?raw=true"> 
-<img src="https://github.com/imwyvern/imwyvern.github.io/blob/master/images/ex1.jpg?raw=true"> 
+<img style="width:635px;" src="https://github.com/imwyvern/imwyvern.github.io/blob/master/images/ex1.jpg?raw=true"> 
+
+<br />
+###总结
+*这篇使用手记主要是从豆瓣的属性和定位角度和其他的差异性角度出发，希望豆瓣能够越做越好。

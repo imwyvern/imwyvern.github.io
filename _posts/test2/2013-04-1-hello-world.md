@@ -18,7 +18,6 @@ categories : [test]
 		</p>	
 		<p>有固定主题概念的。 一些小众的文化主题， 比如<a href="http://www.douban.com/group/imre/">豆瓣三国杀</a>
 		</p>
-		<p>还有一些专注人的个性的，比如<a href="http://www.douban.com/group/toufa/">人人都爱好头发</p>
 		
 	</article>
 </section>

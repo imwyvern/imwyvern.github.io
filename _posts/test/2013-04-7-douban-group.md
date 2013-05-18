@@ -29,5 +29,5 @@ categories : [体验分析]
 *为什么收藏功能在web端没有找到按钮，但是在移动端有收藏功能  
 *当我想要发一个话题的时候，发现有小组太多名字相似，但是我都可以去发的小组，为了保证我的浏览量，难道我的话题都应该去每个小组发一次？  
 *这是一个有趣的例子。百度的ps贴吧内容大部分都是求ps，而豆瓣的ps小组则大部分都是教程和软件下载地址。  
-<img src="/imwyvern/imwyvern.github.io/blob/master/images/ex2.png?raw=true"> 
-<img src="/imwyvern/imwyvern.github.io/blob/master/images/ex1.jpg?raw=true"> 
+<img src="https://github.com/imwyvern/imwyvern.github.io/blob/master/images/ex2.png?raw=true"> 
+<img src="https://github.com/imwyvern/imwyvern.github.io/blob/master/images/ex1.jpg?raw=true"> 

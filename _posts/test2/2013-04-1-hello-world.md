@@ -20,7 +20,8 @@ categories : [test]
 		</p>
 		<p>还有一些专注人的个性的，比如<a href="http://www.douban.com/group/toufa/">人人都爱好头发
 		</p>
-		<p>还有各种各样利用名字的多样性弄出好玩的小组，比如<a href="http://www.douban.com/group/offer/">加入这个小组 你就会拿到Offer </p>
+		<p>还有各种各样利用名字的多样性弄出好玩的小组，比如<a href="http://www.douban.com/group/offer/">加入这个小组 你就会拿到Offer
+		</p>
 	</article>
 </section>
 </div>

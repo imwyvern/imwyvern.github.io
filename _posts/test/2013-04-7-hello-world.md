@@ -10,8 +10,8 @@ categories : [体验分析]
 ###豆瓣小组存在的属性类型
 *没有固定主题概念的。我第一个接触到的小组就是，里面各种用户，各种主题,比如 [我们就喜欢折腾男朋友!](http://www.douban.com/group/Junko520/)  
 *有固定主题概念的。 一些小众的文化主题， 比如[豆瓣三国杀](http://www.douban.com/group/imre/)  
-*还有各种各样利用名字的多样性弄出好玩的小组，比如[加入这个小组 你就会拿到Offer](http://www.douban.com/group/offer/) 
-*还有一些是具备媒体属性的小组，比如王力宏音乐会](http://www.douban.com/group/12630/) 
+*还有各种各样利用名字的多样性弄出好玩的小组，比如[加入这个小组 你就会拿到Offer](http://www.douban.com/group/offer/)  
+*还有一些是具备媒体属性的小组，比如[王力宏音乐会](http://www.douban.com/group/12630/) 
 *然很多属性都是可以重合的，这些不同的小组，以后的发展主要取决于小组的名字，组长的管理导向，组员的行为和关系。 
 >
 <br />
